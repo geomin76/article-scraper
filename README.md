@@ -1,6 +1,6 @@
 # article-scraper
 
-Creating an article scraper based on keywords
+Creating an article scraper based on keywords, for my amigo Zach!
 
 ## Installation
 
