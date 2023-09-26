@@ -8,7 +8,7 @@ keywords = [
 ]
  
 # update this file to whatever file you're passing in
-f = open('./dataset.json')
+f = open('./dataset.json', encoding="cp866")
 data = json.load(f)
 
 links = set()
